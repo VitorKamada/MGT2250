@@ -24,5 +24,16 @@ Under my supervision, my students from Georgia Tech recorded videos that cover t
 Under my supervision, my students from Georgia Tech recorded videos about how to use Excel for data analysis.
 
 
+**Excel Templates:**
+
+[Spring 2017](https://github.com/VitorKamada/MGT2250/tree/master/Excel%20Templates)
+
+
+**Syllabus:**
+
+[Spring 2017](https://github.com/VitorKamada/MGT2250/raw/master/Syllabus/MGT%202250%20Management%20Statistics%20(Spring%202017).pdf)
+
+
+
 
 .
